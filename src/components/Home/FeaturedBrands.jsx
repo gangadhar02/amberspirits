@@ -34,7 +34,7 @@ const FeaturedBrands = () => {
                             transition={{ duration: 0.5 }}
                             className="w-full md:w-1/2 flex justify-center"
                         >
-                            <div className="relative w-64 h-96 md:w-80 md:h-[500px] bg-dark-elevated rounded-full flex items-center justify-center border border-white/5 shadow-2xl" style={{ shadowColor: brands[currentIndex].color }}>
+                            <div className="relative w-64 h-96 md:w-80 md:h-[500px] md:bg-dark-elevated md:rounded-full flex items-center justify-center md:border md:border-white/5 md:shadow-2xl" style={{ shadowColor: brands[currentIndex].color }}>
                                 <img
                                     src={brands[currentIndex].image}
                                     alt={brands[currentIndex].name}
