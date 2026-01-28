@@ -12,11 +12,6 @@ const News = () => {
             excerpt: 'Our signature Grape House Supreme Brandy has been recognized for its exceptional quality and taste on the global stage.',
         },
         {
-            date: 'September 2023',
-            title: 'Launching Ocean Blue: A New Wave of Whisky',
-            excerpt: 'We are proud to introduce Ocean Blue Premium Whisky, a blend crafted for the modern explorer.',
-        },
-        {
             date: 'August 2023',
             title: 'Sustainability Initiatives at Amber Distillery',
             excerpt: 'Commitment to the environment is at our core. Read about our new water conservation and renewable energy projects.',

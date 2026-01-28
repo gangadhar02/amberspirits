@@ -222,21 +222,7 @@ spirit of Hyderabad — timeless, proud, and full of character.
 
 **CTA:** *Discover* *Hyderabad* *Blue*
 
-**Brand** **4:** **OCEAN** **BLUE** **PREMIUM** **WHISKY**
-
-**Tagline:** *Blended* *Mature* *Malts.* *The* *Natural* *Flavours.*
-
-**Body** **Copy:**
-
-Ocean Blue is crafted excellence in every sip — a blend that captures
-the calm and depth of the ocean itself. Matured malts meet reﬁned grains
-to create a whisky that’s smooth, layered, and endlessly rewarding.
-
-*For* *those* *who* *chase* *horizons* *and* *savor* *the* *journey.*
-
-**CTA:** *Experience* *Ocean* *Blue*
-
-**Brand** **5:** **HYDERABAD** **HOUSE** **CLASSIC** **BRANDY**
+**Brand** **4:** **HYDERABAD** **HOUSE** **CLASSIC** **BRANDY**
 
 **Tagline:** *Matured* *Grape* *Spirit.* *Crafted* *for* *Tradition.*
 
@@ -497,44 +483,6 @@ feeling.
 **CTA:**
 
 → *Discover* *the* *Spirit* *of* *Hyderabad.*
-
-**OCEAN** **BLUE** **PREMIUM** **WHISKY**
-
-**Tagline:** *Blended* *Mature* *Malts.* *The* *Natural* *Flavours.*
-
-**Hero** **Headline:**
-
-Crafted Excellence in Every Sip.
-
-**Body** **Copy:**
-
-Ocean Blue Premium Whisky captures the calm conﬁdence of the ocean and
-the mastery of timeless whisky-making. A blend of matured malts and ﬁne
-grain spirits, it’s an expression of depth and discovery — smooth on the
-surface, profound beneath. Every note ﬂows in harmony — subtle
-sweetness, delicate smokiness, and a reﬁned warmth that swells and fades
-like waves against the shore.
-
-The artistry of Ocean Blue lies in its balance. Each bottle embodies
-patience and precision, reﬁned through a careful blending process that
-brings clarity to complexity. It’s a whisky for explorers — those who
-seek sophistication not in extravagance, but in purity. For them, Ocean
-Blue isn’t merely a spirit — it’s a reﬂection of life’s greatest
-journey: steady, evolving, and deeply rewarding.
-
-**Tasting** **Experience:**
-
-> · Matured malts with natural ﬂavour harmony.
->
-> · Notes of toffee, vanilla, and sea-salt smoothness.
->
-> · Medium-bodied with a calm, lasting ﬁnish.
-
-**Ideal** **Serve:** With a splash of water to open its layered aroma.
-
-**CTA:**
-
-→ *Experience* *Ocean* *Blue* *—* *The* *Depth* *of* *Craft.*
 
 **HYDERABAD** **HOUSE** **CLASSIC** **BRANDY**
 
